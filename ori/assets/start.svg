@@ -1,17 +1,7 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="28.4" height="46.7" viewBox="0 0 28.4 46.7">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #fff;
-      }
-
-      .cls-2 {
-        fill: #efeee5;
-      }
-    </style>
-  </defs>
-  <g>
-    <path class="cls-1" d="M14.2,1.7A12.5,12.5,0,0,1,26.7,14.2V32.5a12.5,12.5,0,0,1-25,0V14.2A12.5,12.5,0,0,1,14.2,1.7m0-1.7A14.25,14.25,0,0,0,0,14.2V32.5a14.2,14.2,0,1,0,28.4,0V14.2A14.25,14.25,0,0,0,14.2,0Z"/>
-    <path class="cls-2" d="M14.2,1.7A12.5,12.5,0,0,0,1.7,14.2V32.5a12.5,12.5,0,0,0,25,0V14.2A12.5,12.5,0,0,0,14.2,1.7Z"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 28.4 46.7" style="enable-background:new 0 0 28.4 46.7;" xml:space="preserve">
+<path style="fill:#FFFFFF;" d="M14.2,0C6.4,0,0,6.4,0,14.2v18.3c0,7.8,6.4,14.2,14.2,14.2c7.8,0,14.2-6.4,14.2-14.2c0,0,0,0,0,0
+	V14.2C28.4,6.4,22,0,14.2,0z"/>
 </svg>
