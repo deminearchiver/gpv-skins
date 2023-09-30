@@ -159,6 +159,7 @@ background-position: 0 -70px;
     height: 55px;
     /* background: url(https://deminearchiver.github.io/gpv-skins/ori/assets/face.svg);
     background-size: cover; */
+    background: none;
     border-radius: 100%;
 }
 
