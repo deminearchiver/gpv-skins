@@ -198,6 +198,7 @@ background-position: 0 -70px;
 .ds4 .stick {
     position: absolute;
     background: url(https://deminearchiver.github.io/gpv-skins/ori/assets/sticks.svg);
+    background-size: cover;
     height: 94px;
     width: 94px;
 }
