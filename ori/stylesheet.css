@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(assets/base.svg);
+    background: url(gpv-skins/ori/gpv-skins/ori/assets/base.svg);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -8,7 +8,7 @@
 }
 
 .ds4.disconnected {
-    background: url(assets/disconnected.svg);
+    background: url(gpv-skins/ori/assets/disconnected.svg);
 }
 
 .ds4.disconnected div {
@@ -25,7 +25,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(assets/triggers.svg);
+    background: url(gpv-skins/ori/assets/triggers.svg);
     opacity: 0;
 }
 
@@ -41,7 +41,7 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(assets/bumper.svg) no-repeat;
+    background: url(gpv-skins/ori/assets/bumper.svg) no-repeat;
     opacity: 0;
 }
 
@@ -77,7 +77,7 @@
 }
 
 .ds4 .touchpad.pressed {
-    background: url(assets/touchpad.svg) no-repeat center;
+    background: url(gpv-skins/ori/assets/touchpad.svg) no-repeat center;
 }
 
 .ds4 .meta {
@@ -89,13 +89,13 @@
 }
 
 .ds4 .meta.pressed {
-    background: url(assets/meta.svg) no-repeat center;
+    background: url(gpv-skins/ori/assets/meta.svg) no-repeat center;
 }
 
 /*Not needed, but I like keeping them here for posterity*/
 /*.ds4 .quadrant{
 position: absolute;
-background: url(ps4-assets/player-n.svg);
+background: url(ps4-gpv-skins/ori/assets/player-n.svg);
 height: 17px;
 width: 111px;
 top: 140px;
@@ -122,7 +122,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(assets/start.svg);
+    background: url(gpv-skins/ori/assets/start.svg);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -157,7 +157,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(assets/face.svg);
+    background: url(gpv-skins/ori/assets/face.svg);
 }
 
 .ds4 .button.pressed {
@@ -197,7 +197,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(assets/sticks.svg);
+    background: url(gpv-skins/ori/assets/sticks.svg);
     height: 94px;
     width: 94px;
 }
@@ -229,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(assets/dpad.svg);
+    background: url(gpv-skins/ori/assets/dpad.svg);
     position: absolute;
 }
 

@@ -4,7 +4,7 @@ my skins for [**GamePadViewer**](https://gamepadviewer.com/)
 ## Skins
 ### Outlined
 A generic lightweight skin. Perfect for anything.
-### [Ori](/ori)
+### [Ori DualShock4](/ori)
 I made this skin for my [**Ori 1 & 2**](https://www.orithegame.com) live streams
 
 ```
