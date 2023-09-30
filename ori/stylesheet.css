@@ -158,6 +158,7 @@ background-position: 0 -70px;
     width: 55px;
     height: 55px;
     background: url(https://deminearchiver.github.io/gpv-skins/ori/assets/face.svg);
+    background-size: cover;
 }
 
 .ds4 .button.pressed {
