@@ -167,24 +167,26 @@ background-position: 0 -70px;
 
 .ds4 .a {
     background-position: 0 0;
-    bottom: 0;
-    left: 58px;
+    bottom: 2.3px;
+    left: 57.1px;
 }
 
 .ds4 .b {
     background-position: -57px 0;
     top: 58px;
-    right: 0px;
+    right: 2px;
 }
 
 .ds4 .x {
     background-position: -113px 0;
-    top: 58px;
+    left: 1.7px;
+    top: 57.4px;
 }
 
 .ds4 .y {
     background-position: 55px 0;
-    left: 58px;
+    top: 1.6px;
+    left: 56.8px;
 }
 
 .ds4 .sticks {
