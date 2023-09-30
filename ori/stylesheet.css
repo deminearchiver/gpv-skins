@@ -157,13 +157,15 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://deminearchiver.github.io/gpv-skins/ori/assets/face.svg);
-    background-size: cover;
+    /* background: url(https://deminearchiver.github.io/gpv-skins/ori/assets/face.svg);
+    background-size: cover; */
+    border-radius: 100%;
 }
 
 .ds4 .button.pressed {
     background-position-y: 55px;
     /* margin-top: 5px; */
+    background-color: #fff;
 }
 
 .ds4 .a {
