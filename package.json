@@ -1,8 +1,5 @@
 {
   "private": true,
   "name": "@deminearchiver/gpv-skins",
-  "packageManager": "yarn@3.6.3",
-  "devDependencies": {
-    "sass": "^1.68.0"
-  }
+  "packageManager": "yarn@3.6.3"
 }
