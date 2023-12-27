@@ -8,15 +8,11 @@ All my [**GamePadViewer**](https://gamepadviewer.com/) skins.
 
     Primary variant of the skin.
     ```
-    https://app.gpv.gg/?p=1&s=5&editcss=https%3A%2F%2Fdeminearchiver.github.io%2Fgpv-skins%2Fskins%2Fds4%2Fmodern%2Foutline%2Fstylesheet.css
+    https://deminearchiver.github.io/gpv-skins/skins/ds4/modern/outline/stylesheet.css
     ```
   - **Solid**
     
     A solid white skin, intented to be used as a mask.
     ```
-      https://app.gpv.gg/?p=1&s=5&editcss=https%3A%2F%2Fdeminearchiver.github.io%2Fgpv-skins%2Fskins%2Fds4%2Fmodern%2Fsolid%2Fstylesheet.css
+    https://deminearchiver.github.io/gpv-skins/skins/ds4/modern/solid/stylesheet.css
     ```
-- **Ori** <sup>coming soon</sup>
-
-  Styled for my Ori live streams.
-
